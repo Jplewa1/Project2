@@ -66,10 +66,15 @@ html{
  #resume-h1{
      font-weight: bold;
      color: red;
+     border-style: dashed;
  }
 
  #resume-body h2 , h3{
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     border-style: dashed;
+     border-width: 1px;
+     border-radius: 50ox;
+     background-color: aqua;
  }
 
  #soccerprofile-body{
@@ -84,7 +89,9 @@ html{
      color: crimson;
      border-style: solid;
      border-width: 2px;
-     border-color: black;
+     border-color: white;
+     border-radius: 50px;
+     background-color: white;
  }
 
  #soccerprofile-body ul li{
