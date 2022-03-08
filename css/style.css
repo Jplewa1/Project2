@@ -1,5 +1,5 @@
 html{
-    background-color: gray;
+    background-color: rgb(194, 120, 120);
 }
 
 #main-navbar{
@@ -104,6 +104,8 @@ html{
 
  #sandwich-body{
      text-align: center;
+     padding-left: 100px;
+     padding-right: 100px;
  }
 
  #mcd , #pop , #chi , #kfc{
