@@ -55,6 +55,7 @@ html{
  #resume-body ul li{
      list-style-type: none;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     border: 1px solid black;
  }
  
  #resume-body li{
@@ -65,3 +66,4 @@ html{
      font-weight: bold;
      color: red;
  }
+
