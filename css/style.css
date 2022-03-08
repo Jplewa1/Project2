@@ -39,3 +39,11 @@ html{
   #navbar-container ul li a:hover{
     background-color: gray;
   }
+
+ #index-body{
+     text-align: center;
+ }
+
+ #index-body ul li{
+     list-style-type: none;
+ }
