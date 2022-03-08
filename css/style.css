@@ -50,6 +50,7 @@ html{
 
  #resume-body{
      text-align: center;
+     width: 1200px;
  }
 
  #resume-body ul li{
@@ -65,5 +66,9 @@ html{
  #resume-h1{
      font-weight: bold;
      color: red;
+ }
+
+ #resume-body h2 , h3{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
 
