@@ -105,3 +105,17 @@ html{
  #sandwich-body{
      text-align: center;
  }
+
+ #mcd , #pop , #chi , #kfc{
+     width: 200px;
+     border-radius: 100px;
+ }
+
+ #sandwich-body h1, h2{
+     color: blue;
+ }
+
+ #sandwich-body ul li{
+     list-style-type: none;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
