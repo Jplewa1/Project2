@@ -126,8 +126,7 @@ html{
 
  #sandwich-body ul li{
      list-style-type: none;
-     font-family: Roboto;
-     src: url(roboto-black-webfont.woff);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
 
 
