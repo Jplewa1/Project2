@@ -11,6 +11,7 @@ html{
     float: left;
     width: 100%;
     position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   #navbar-container ul{
