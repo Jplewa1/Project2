@@ -1,5 +1,6 @@
 html{
     background-color: rgb(194, 120, 120);
+    border: 10px solid lightblue;
 }
 
 @font-face {
