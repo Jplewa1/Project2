@@ -1,6 +1,6 @@
 html{
     background-color: rgb(194, 120, 120);
-    border: 10px solid lightblue;
+    border: 10px solid red;
 }
 
 @font-face {
@@ -50,6 +50,7 @@ html{
 
  #index-body{
      text-align: center;
+     border: 10px solid pink;
  }
 
  #index-body ul li{
@@ -60,6 +61,7 @@ html{
      text-align: center;
      padding-left: 150px;
      padding-right: 150px;
+     border: 10px solid pink;
  }
 
  #resume-body ul li{
@@ -90,6 +92,7 @@ html{
      text-align: center;
      padding-left: 150px;
      padding-right: 150px;
+     border: 10px solid pink;
  }
 
  #soccerprofile-body h1, h2, h3{
@@ -122,6 +125,7 @@ html{
      text-align: center;
      padding-left: 150px;
      padding-right: 150px;
+     border: 10px solid pink;
  }
 
  #mcd , #pop , #chi , #kfc{
