@@ -2,6 +2,11 @@ html{
     background-color: rgb(194, 120, 120);
 }
 
+@font-face {
+    font-family: importFont;
+    src: url(Roboto-LightItalic.ttf);
+}
+
 #main-navbar{
     background-color: black;
     overflow: hidden;
@@ -34,7 +39,7 @@ html{
     padding: 10px 20px;
     color: #fff;
     text-decoration: none;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: importFont;
     font-weight: bold;
   }
   
