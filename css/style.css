@@ -79,7 +79,7 @@ html{
 
  #resume-h1{
      font-weight: bold;
-     color: red;
+     color: black;
      border-style: dashed;
  }
 
@@ -155,7 +155,11 @@ html{
     border-radius: 100px;
  }
 
- #sandwich-body h1, h2{
+#sandwich-body h1{
+    color: black;
+}
+
+ #sandwich-body h2{
      color: blue;
  }
 
