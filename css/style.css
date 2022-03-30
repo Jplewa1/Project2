@@ -129,9 +129,28 @@ html{
      border: 10px solid pink;
  }
 
- #mcd , #pop , #chi , #kfc{
+ #mcd{
+     position: relative;
      width: 200px;
      border-radius: 100px;
+ }
+
+ #pop{
+    position: relative;
+    width: 200px;
+    border-radius: 100px;
+ }
+
+ #chi{
+    position: relative;
+    width: 200px;
+    border-radius: 100px;
+ }
+
+ #kfc{
+    position: relative;
+    width: 200px;
+    border-radius: 100px;
  }
 
  #sandwich-body h1, h2{
